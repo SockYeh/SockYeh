@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=SockYeh&data=followers,repositories,stars,commits&theme=nautilus" />
-<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=python,html,json,yaml,powershell&tools=git,mongodb,mysql&software=linux,windows,vscode&frameworks=bootstrap&theme=nautilus" />
