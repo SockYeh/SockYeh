@@ -26,5 +26,5 @@ I'm Sahran :)<br> I code because it's fun and pretty code looks cool.
 | :------- | -------: |
 
 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sockyeh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) | [![](https://github-readme-stats.vercel.app/api/wakatime?username=sockyeh&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sockyeh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) | [![](https://github-readme-stats.vercel.app/api/wakatime?username=sockyeh&layout=compact&langs_count=4&custom_title=Wakatime%20Stats%20from%20September%202025)](https://github.com/anuraghazra/github-readme-stats) |
 | :------- | -------: |
